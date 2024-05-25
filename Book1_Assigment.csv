@@ -1,0 +1,52 @@
+District,School,Grade,Subject,Score,Gender,Month,Attendance,,,,,,,,,,,,,,
+Khordha,School A,10,Mathematics,85,Male,January,90%,,,,,,,,,,,,,,
+Khordha,School A,10,Mathematics,78,Female,February,88%,,,,,,,,,,,,,,
+Khordha,School A,10,Science,90,Male,March,95%,,Calculate Average Attendance ,,,,Calculate the average scores by Gender:,,,,," Average Score by District, Subject, and Gender",,,
+Khordha,School A,10,Science,82,Female,April,89%,,,,,,,Male,Female,,,,Male,,
+Khordha,School A,10,English,88,Male,May,85%,,District ,Male,Female,,,80.42,79.80,,,District ,Mathematics,Science,English
+Khordha,School A,10,English,75,Female,June,87%,,Khordha,89%,87%,,,,,,,Khordha,82.50,84.00,86.00
+Cuttack,School B,10,Mathematics,92,Male,January,92%,,Cuttack,89%,87%,,,,,,,Cuttack,89.50,84.50,83.00
+Cuttack,School B,10,Mathematics,80,Female,February,85%,,Ganjam,85%,88%,,,,,,,Ganjam,75.50,77.00,76.00
+Cuttack,School B,10,Science,85,Male,March,91%,,Puri,79%,82%,,,,,,,Puri,69.00,71.00,73.00
+Cuttack,School B,10,Science,78,Female,April,86%,,Balasore,93%,90%,,,,,,,Balasore,89.00,87.00,86.00
+Cuttack,School B,10,English,83,Male,May,88%,,,,,,,,,,,,,,
+Cuttack,School B,10,English,79,Female,June,89%,,,,,," Average Score by District, Subject, and Gender",,,,,,,,
+Ganjam,School C,10,Mathematics,75,Male,January,84%,,,,,,,,,,,,Female,,
+Ganjam,School C,10,Mathematics,88,Female,February,92%,,,,,,District ,Mathematics,Science,English,,District ,Mathematics,Science,English
+Ganjam,School C,10,Science,80,Male,March,87%,,Report Doc,,,,Khordha,81.50,82.75,81.50,,Khordha,80.50,81.50,77.00
+Ganjam,School C,10,Science,82,Female,April,91%,,,,,,Cuttack,85.25,81.50,80.50,,Cuttack,81.00,78.50,78.00
+Ganjam,School C,10,English,77,Male,May,85%,,,,,,Ganjam,79.75,78.50,79.00,,Ganjam,84.00,80.00,82.00
+Ganjam,School C,10,English,85,Female,June,90%,,,,,,Puri,71.00,72.33,75.50,,Puri,73.00,75.00,78.00
+Puri,School D,10,Mathematics,68,Male,January,80%,,,,,,Balasore,87.00,85.50,84.00,,Balasore,85.00,84.00,82.00
+Puri,School D,10,Mathematics,72,Female,February,83%,,,,,,,,,,,,,,
+Puri,School D,10,Science,70,Male,March,81%,,,,,,,,,,,,,,
+Puri,School D,10,Science,75,Female,April,84%,,,,,,,,,,,,,,
+Puri,School D,10,English,73,Male,May,79%,,,,,,,,,,,,,,
+Puri,School D,10,English,78,Female,June,82%,,,,,,,,,,,,,,
+Balasore,School E,10,Mathematics,89,Male,January,95%,,,,,,,,,,,,,,
+Balasore,School E,10,Mathematics,85,Female,February,92%,,,,,,,,,,,,,,
+Balasore,School E,10,Science,87,Male,March,93%,,,,,,,,,,,,,,
+Balasore,School E,10,Science,84,Female,April,90%,,,,,,,,,,,,,,
+Balasore,School E,10,English,86,Male,May,91%,,,,,,,,,,,,,,
+Balasore,School E,10,English,82,Female,June,88%,,,,,,,,,,,,,,
+Khordha,School F,10,Mathematics,80,Male,July,88%,,,,,,,,,,,,,,
+Khordha,School F,10,Mathematics,83,Female,August,86%,,,,,,,,,,,,,,
+Khordha,School F,10,Science,78,Male,September,89%,,,,,,,,,,,,,,
+Khordha,School F,10,Science,81,Female,October,85%,,,,,,,,,,,,,,
+Khordha,School F,10,English,84,Male,November,87%,,,,,,,,,,,,,,
+Khordha,School F,10,English,79,Female,December,84%,,,,,,,,,,,,,,
+Cuttack,School G,10,Mathematics,87,Male,July,90%,,,,,,,,,,,,,,
+Cuttack,School G,10,Mathematics,82,Female,August,91%,,,,,,,,,,,,,,
+Cuttack,School G,10,Science,84,Male,September,88%,,,,,,,,,,,,,,
+Cuttack,School G,10,Science,79,Female,October,86%,,,,,,,,,,,,,,
+Cuttack,School G,10,English,83,Male,November,87%,,,,,,,,,,,,,,
+Cuttack,School G,10,English,77,Female,December,85%,,,,,,,,,,,,,,
+Ganjam,School H,10,Mathematics,76,Male,July,83%,,,,,,,,,,,,,,
+Ganjam,School H,10,Mathematics,80,Female,August,82%,,,,,,,,,,,,,,
+Ganjam,School H,10,Science,74,Male,September,85%,,,,,,,,,,,,,,
+Ganjam,School H,10,Science,78,Female,October,88%,,,,,,,,,,,,,,
+Ganjam,School H,10,English,75,Male,November,84%,,,,,,,,,,,,,,
+Ganjam,School H,10,English,79,Female,December,86%,,,,,,,,,,,,,,
+Puri,School I,10,Mathematics,70,Male,July,78%,,,,,,,,,,,,,,
+Puri,School I,10,Mathematics,74,Female,August,80%,,,,,,,,,,,,,,
+Puri,School I,10,Science,72,Male,September,79%,,,,,,,,,,,,,,
